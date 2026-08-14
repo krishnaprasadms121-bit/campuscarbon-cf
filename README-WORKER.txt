@@ -70,3 +70,4 @@ Then open your .workers.dev address:
   - Scan Plant > add one photo > Scan plant
   - Help Assistant > ask "what is the capital of Japan?"
     It should refuse politely and talk about carbon credits.
+
